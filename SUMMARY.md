@@ -5,7 +5,7 @@
    * [前言](chapter1/qian_yan.md)
    * [引子](chapter1/yin_zi.md)
 * 蒙昧时代
-   * 导读
+   * [导读](chapter2/daodu.md)
    * 人科的起源争论
    * 智人的日常生活与婚姻状况
    * 大辩论：现代人究竟起源于何时何地
