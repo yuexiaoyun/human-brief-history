@@ -56,5 +56,22 @@
    * [英国的资产阶级革命战争](chapter3/zichangeming.md)
    * [编年表](chapter3/biannian.md)
 * 工业社会
+   * [导读](chapter4/daodu.md)
+   * [开启人类理性时代的启蒙运动](chapter4/qimeng.md)
+   * [改革与扩张成就强大的俄国](chapter4/eguo.md)
+   * [人类第一次工业革命](chapter4/gongye.md)
+   * [美洲人民的权利之争](chapter4/meizhou.md)
+   * [一个实行君主制的共和国](chapter4/gongheguo.md)
+   * [“向宫殿开战，给茅屋和平”](chapter4/hepin.md)
+   * [美国奴隶制与资本主义制度之争](chapter4/meiguo.md)
+   * [人类第二次工业革命](chapter4/gongye2.md)
+   * [“一个反复爆炸的火药桶”](chapter4/fanfu.md)
+   * [转嫁矛盾的第一次世界大战](chapter4/shijiedazhan.md)
+   * [人类史上第一次成功的无产阶级革命](chapter4/wucan.md)
+   * [影响世界政治的经济大萧条](chapter4/jinji.md)
+   * [战斧挥舞：第二次世界大战](chapter4/shijiedazhan2.md)
+   * [全球性的民族解放运动](chapter4/jiefang.md)
+   * [世界“警察”组织：联合国的成立](chapter4/lianheguo.md)
+   * [编年表](chapter4/biannian.md)
 * 后工业社会
 
