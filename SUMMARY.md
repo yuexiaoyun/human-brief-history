@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [简介](README.md)
 * 前言
    * [前言](chapter1/qian_yan.md)
    * [引子](chapter1/yin_zi.md)
