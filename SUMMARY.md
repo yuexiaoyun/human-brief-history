@@ -74,4 +74,7 @@
    * [世界“警察”组织：联合国的成立](chapter4/lianheguo.md)
    * [编年表](chapter4/biannian.md)
 * 后工业社会
+   * [导读](chapter5/daodu.md)
+   * [一个全新的资讯时代](chapter5/xinxi.md)
+
 
