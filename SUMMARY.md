@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * 前言
-   * [前言](qian_yan.md)
+   * [前言](chapter1/qian_yan.md)
    * 引子
 * 蒙昧时代
    * 导读
